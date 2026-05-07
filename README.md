@@ -156,7 +156,7 @@ docker-compose --version
 ### 3. Clone the Repository
 
 ```bash
-git clone https://github.com/deathbyginger64/cloud-monitoring-project.git
+git clone https://github.com/shair77/cloud-monitoring-project.git
 cd cloud-monitoring-project
 ```
 
